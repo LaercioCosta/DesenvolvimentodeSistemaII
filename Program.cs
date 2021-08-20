@@ -8,9 +8,10 @@ class Program
         {
             double nota, 
                 peso, 
-                pesoTotal=0,
-                notaPeso, total=0, 
-                mediaPonderada ; 
+                notaPeso,
+                mediaPonderada,
+                pesoTotal=0, 
+                total=0;
 
             int quantidadeNotas = 1;
             
